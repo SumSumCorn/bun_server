@@ -15,4 +15,4 @@ COPY . .
 EXPOSE 3000
 
 # 서버 실행
-CMD ["bun", "run", "index.js"]
+CMD ["bun", "run", "index.ts"]
